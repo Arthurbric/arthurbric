@@ -10,7 +10,7 @@
   -->
 </div>
 
-# Hi guys, my name is Arthur Arash and I like technology and programming, but I don't like to code, lol!👨🏽‍💻
+# Hi guys, my name is Arthur Arash and I like technology and programming!👨🏽‍💻
 <!-- 
 icon 
 https://emojipedia.org/pt/castor
