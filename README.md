@@ -3,14 +3,14 @@
   
   <h1>Hi there, I'm Arthur Arash! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
   
-  <h3>🚀 Technology Enthusiast | Developer | Creative Thinker</h3>
+  <h3>🚀 Solutions Architect | Data Engineer | Computer Science Student</h3>
 
   <p width="600px">
-    Welcome to my workspace! I am passionate about technology and creating impact through code. I love diving into everything from design to backend logic.
+    I am a solutions-focused professional with over 5 years of experience in data engineering, full-stack development, and technical education[cite: 5]. Currently, I work as a <b>Solutions Architect at SUSE Linux</b>, designing effective software solutions and helping teams adapt to new technologies[cite: 7, 14].
   </p>
 
   <p>
-    <b>⚡ My Philosophy:</b> I don't just "do the job." If given an opportunity, I dedicate myself fully to exceed expectations. I believe in giving <b>110% effort</b> in everything I touch, constantly learning and improving to deliver the best possible result.
+    <b>⚡ My Philosophy:</b> I believe in giving <b>110% effort</b>. Whether I am architecting documentation that accelerates team onboarding by 20% [cite: 18] or automating data pipelines to save hours of manual work[cite: 27], I dedicate myself fully to exceed expectations.
   </p>
 </div>
 
@@ -20,26 +20,41 @@
 
 <div align="center">
 
-  **Design & Frontend**<br>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br><br>
-
-  **Backend & Languages**<br>
+  **Languages**<br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
   <br><br>
 
-  **Tools & OS**<br>
+  **DevOps & Cloud**<br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=suse&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <br><br>
 
+  **Web & Frameworks**<br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <br><br>
 </div>
+
+---
+
+### 💼 Professional Journey
+
+* **Solutions Architect @ SUSE Linux** *(Jan 2024 - Present)*
+    * [cite_start]Design software solutions and contribute to architecture documentation, improving team alignment by 20%[cite: 14, 18].
+    * [cite_start]Create Proofs of Concept (PoCs) to validate decisions and reduce decision-making time for pre-sales[cite: 19, 20].
+
+* **Data Engineer @ PGFN** *(Jul 2023 - Jan 2024)*
+    * [cite_start]Specialized in Big Data (Spark, Hive) and Web Scraping[cite: 23, 24].
+    * [cite_start]Automated pipelines with Python/SQL, reducing data collection time by over 70%[cite: 25].
 
 ---
 
@@ -47,9 +62,19 @@
 
 | Project | Description | Tech Used |
 | :--- | :--- | :--- |
-| **2Gater** | A comprehensive platform aimed at organizing parties and events effectively. | `Web Dev` |
-| **Incident Reporter** | An institutional reporting system developed for CEUB to streamline issue tracking. | `Fullstack` |
-| **3D Museum** | An immersive 3D environment created using raw C and OpenGL (Collab with Guilherme GHZ). | `C` `OpenGL` |
+| **Lembrei!** | [cite_start]An app for individuals with ADHD that sends contextual notifications based on location to improve organization[cite: 35, 36]. | `App Dev` `Python` |
+| **Read Write 4 All** | [cite_start]Inclusive web platform promoting literacy with audio instructions and accessibility features (ARIA)[cite: 38, 40]. | `Web` `Accessibility` |
+| **Occurrence Report CEUB** | [cite_start]A web platform for quickly reporting campus incidents (theft, infrastructure, etc.) with real-time alerts[cite: 45, 47]. | `Fullstack` |
+| **Interactive 3D Museum** | [cite_start]An immersive 3D environment created using raw C and OpenGL with real-time reflections[cite: 42, 43]. | `C` `OpenGL` |
+
+---
+
+### 📚 Certifications & Education
+
+* [cite_start]🎓 **Bachelor of Computer Science** - CEUB (2022-2025) [cite: 9, 10]
+* [cite_start]📜 **SCA in SUSE Linux Enterprise Server 15** (2024) [cite: 50]
+* [cite_start]📜 **SCA in SUSE Manager 4** (2025) [cite: 51]
+* [cite_start]📜 **Network+ Fundamentals** - Cisco (2025) [cite: 57, 68]
 
 ---
 
@@ -68,7 +93,7 @@
   <a href="https://www.linkedin.com/in/arthur-arash" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:arthurarash.bric@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
